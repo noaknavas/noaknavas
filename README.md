@@ -1,86 +1,80 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffff,50:ff00ff,100:00ff00&height=250&section=header&text=noaknavas&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20App%20Developer%20%7C%20Cyber%20Defense&descAlignY=55&descSize=20" width="100%"/>
-</div>
 
-<div align="center">
-  <a href="https://github.com/noaknavas">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Initializing+Cyber+Construct...;🔐+Securing+the+Digital+World;💻+Crafting+Next-Gen+Applications;⚡+Matrix+Protocols:+Online" alt="Typing SVG" />
-  </a>
-</div>
+# Hi there, I'm Bishnu Prasad Nayak 👋
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Cyber+Security+Specialist;Full-Stack+App+Developer)](https://github.com/noaknavas)
 
-## 👤 SYSTEM.ABOUT_ME
-
-<div align="left">
-  <table>
-    <tr>
-      <td width="60%">
-        <ul>
-          <li>🌌 <b>Mission Directory:</b> Crafting innovative applications and securing digital infrastructure.</li>
-          <li>🔭 <b>Current Execution:</b> Full-Stack App Development & Cyber Operations.</li>
-          <li>🌱 <b>Neural Learning:</b> Advanced System Architectures & Next-Gen Frameworks.</li>
-          <li>💬 <b>Transmission Link:</b> Software Development, App Creation, Ethical Hacking.</li>
-          <li>⚡ <b>System Log:</b> "There is no patch for human stupidity."</li>
-        </ul>
-      </td>
-      <td width="40%" align="center">
-         <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cyberpunk Hacker" width="220"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  I build <b>high-performance software</b> and secure <b>digital infrastructure</b>.<br/>
+  With a background in Cyber Security & Forensics and experience in full-stack Python development,<br/>
+  I bridge the gap between building great products and keeping systems locked down.
+</p>
 
 <br/>
 
-## 🛠️ CYBER ARSENAL
+### 🛠️ Tech Stack & Arsenal
 
-<div align="center">
-  <h3>Core Languages & Scripts</h3>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,java,bash&theme=dark" />
-  </a>
-  <br/>
-  <h3>Frameworks & Runtime Environments</h3>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,docker,aws,gcp&theme=dark" />
-  </a>
-  <br/>
-  <h3>DevOps, OS & Security</h3>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,git,vim,postgres,mysql&theme=dark" />
-  </a>
-</div>
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,cpp,java,bash&theme=dark" />
+<br />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,docker,aws,gcp,postgres,git&theme=dark" />
 
-<br/>
+<br/><br/>
 
-## 🔥 STREAK METRICS
+### 🏆 Featured Constructs
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noaknavas&bg_color=0d1117&border=00ffff&stroke=00ff00&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎵 Nebula</h3>
+      <p>A distraction-free, frosted-glass desktop music player combining YouTube Music and Spotify.</p>
+      <p><code>TypeScript</code> <code>Electron</code> <code>React</code></p>
+      <a href="https://github.com/noaknavas/Nebula">View Repository</a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎧 SoundScape</h3>
+      <p>A professional audio processing suite with multi-threaded AI source separation (Demucs/Spleeter).</p>
+      <p><code>Python</code> <code>AI/ML</code> <code>Tkinter</code></p>
+      <a href="#">Commercial Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌐 AURKA</h3>
+      <p>An automated Python utility for migrating Windows browser data directly into Linux environments.</p>
+      <p><code>Python</code> <code>Data Migration</code></p>
+      <a href="https://github.com/noaknavas/AURKA">View Repository</a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🛡️ Security Infrastructure</h3>
+      <p>Hardened system security, malware removal, patch cycles, and enterprise infrastructure management.</p>
+      <p><code>ServiceDesk</code> <code>Wireshark</code> <code>Networking</code></p>
+      <a href="#">IT Operations</a>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br/><br/>
 
-## 🐍 CONTRIBUTION GRID
+### 📊 GitHub Telemetry
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noaknavas/noaknavas/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noaknavas/noaknavas/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noaknavas/noaknavas/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noaknavas&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noaknavas&theme=tokyonight" width="49%" />
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:ff00ff,100:00ffff&height=120&section=footer" width="100%"/>
-</div>
+### 🐍 Contribution Activity
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=noaknavas&label=SYSTEM%20PING&color=ff00ff&style=for-the-badge" alt="Profile Views" />
-  <br/>
-  <br/>
-  <p><code>CONNECTION_TERMINATED // STAY_SECURE_//...</code></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noaknavas/noaknavas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noaknavas/noaknavas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noaknavas/noaknavas/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/bishnu-prasad-nayak/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=noaknavas&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
