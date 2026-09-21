@@ -22,22 +22,25 @@
 
 ### 🏆 Featured Repositories
 
-<!-- Clean, mobile-friendly project showcase without tables -->
-
-<a href="https://github.com/noaknavas/Nebula">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaknavas&repo=Nebula&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/noaknavas/AURKA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaknavas&repo=AURKA&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/noaknavas/Nebula">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=noaknavas&repo=Nebula&theme=tokyonight&hide_border=true" alt="Nebula Repo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/noaknavas/AURKA">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=noaknavas&repo=AURKA&theme=tokyonight&hide_border=true" alt="AURKA Repo" />
+  </a>
+</div>
 
 <br/><br/>
 
 ### 📊 GitHub Telemetry
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noaknavas&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noaknavas&theme=tokyonight" width="49%" />
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=noaknavas&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=noaknavas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 <br/><br/>
 
