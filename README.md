@@ -20,38 +20,17 @@
 
 <br/><br/>
 
-### 🏆 Featured Constructs
+### 🏆 Featured Repositories
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🎵 Nebula</h3>
-      <p>A distraction-free, frosted-glass desktop music player combining YouTube Music and Spotify.</p>
-      <p><code>TypeScript</code> <code>Electron</code> <code>React</code></p>
-      <a href="https://github.com/noaknavas/Nebula">View Repository</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🎧 SoundScape</h3>
-      <p>A professional audio processing suite with multi-threaded AI source separation (Demucs/Spleeter).</p>
-      <p><code>Python</code> <code>AI/ML</code> <code>Tkinter</code></p>
-      <a href="#">Commercial Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌐 AURKA</h3>
-      <p>An automated Python utility for migrating Windows browser data directly into Linux environments.</p>
-      <p><code>Python</code> <code>Data Migration</code></p>
-      <a href="https://github.com/noaknavas/AURKA">View Repository</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🛡️ Security Infrastructure</h3>
-      <p>Hardened system security, malware removal, patch cycles, and enterprise infrastructure management.</p>
-      <p><code>ServiceDesk</code> <code>Wireshark</code> <code>Networking</code></p>
-      <a href="#">IT Operations</a>
-    </td>
-  </tr>
-</table>
+<!-- Clean, mobile-friendly project showcase without tables -->
+
+<a href="https://github.com/noaknavas/Nebula">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaknavas&repo=Nebula&theme=tokyonight&hide_border=true" />
+</a>
+&nbsp;
+<a href="https://github.com/noaknavas/AURKA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noaknavas&repo=AURKA&theme=tokyonight&hide_border=true" />
+</a>
 
 <br/><br/>
 
