@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Bishnu (noaknavas)
+# Hi there! 👋 I'm noaknavas
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Passionate+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 
